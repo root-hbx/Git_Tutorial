@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     cout<<"hello hbx"<<endl;
-    cout<<2024<<endl;
+    cout<<2026<<endl;
+	cout<<"cqy"<<endl;
     return 0;
 }
