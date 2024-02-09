@@ -10,7 +10,12 @@ using namespace std;
 int main()
 {
     cout<<"hello hbx"<<endl;
+<<<<<<< HEAD
     cout<<2026<<endl;
 	cout<<"cqy"<<endl;
+=======
+    cout<<2025<<endl;
+	cout<<hbx<<endl;
+>>>>>>> will-conflict
     return 0;
 }
