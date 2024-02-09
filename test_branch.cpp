@@ -10,6 +10,5 @@ using namespace std;
 int main()
 {
 	cout<<"I belong to branch master"<<endl;
-    cout<<"branch_new"<<endl;
 	return 0;
 }
